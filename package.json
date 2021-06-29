@@ -1,0 +1,23 @@
+{
+  "name": "hasone-belongstomany",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^15.12.5",
+    "@types/validator": "^13.1.4",
+    "sequelize": "^5.21.13",
+    "sequelize-typescript": "^1.1.0",
+    "typescript": "^3.5.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "reflect-metadata": "^0.1.13"
+  }
+}

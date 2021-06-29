@@ -6,3 +6,7 @@ A sample repository to explore how the the following relationship works with v5 
 * Color BelongsTo[Many] Flower
 
 and how to get back a list of Flowers and their corresponding colors.
+
+---
+
+The "many" is in brackets because I'm not sure if I have to use `@BelongsTo()` or `@BelongsToMany()`
