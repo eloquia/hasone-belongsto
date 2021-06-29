@@ -9,4 +9,8 @@ and how to get back a list of Flowers and their corresponding colors.
 
 ---
 
-The "many" is in brackets because I'm not sure if I have to use `@BelongsTo()` or `@BelongsToMany()`
+## Disclaimers
+
+* The "many" is in brackets because I'm not sure if I have to use `@BelongsTo()` or `@BelongsToMany()`
+* Omitted common code such as adding `models` to `SequelizeOptions`
+* Using Postgres
